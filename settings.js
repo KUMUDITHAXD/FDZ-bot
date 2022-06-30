@@ -32,7 +32,7 @@ global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'FDC BOT'
 global.author = 'FDC BOT'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🎀','🌴','🔥']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
